@@ -6,7 +6,7 @@
 ## HW3
 
 + **Instructions:** Download HW3 from [Github](https://github.com/ledeprogram/data-and-databases). You will need to enter the code into the empty cells to produce the desired outcome. Save to your Github repo.
-+ The HW focuses on a [toy example html page](http://static.decontextualize.com/widgets2016.html)
++ The HW focuses on a [toy example html page](http://static.decontextualize.com/widgets2016.html).
 + Eventually, you want your data to look like a **list of dictionaries**. This is a very common data structure that you will encounter again and again.
 + In this assignment, you will be moving your data from html into a list of dictionaries.
 + In Allison's desired output, some strings have a 'u' next to them -- ignore this! The 'u' should not appear in your output.
