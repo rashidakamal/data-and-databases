@@ -43,6 +43,7 @@ Let's take a look at the [webpage](http://static.decontextualize.com/kittens.htm
 We're going to be installing and importing a Python library called BeautifulSoup to help us scrape websites.
 
 On the command line, in a virtual environment, run `pip3 install bs4` -- you also have the option of doing this directly from inside your Jupyter notebook if using the following command: `!pip3 install bs4`.
+
 **Check out the accompanying Jupyter notebook to see how we scraped [kittens.html](http://static.decontextualize.com/kittens.html).** The majority of the notes are contained within the Jupyter notebook -- for additional explanation on any of the concepts, consult [Allison's notes](https://github.com/ledeprogram/data-and-databases/blob/master/Scraping_HTML.ipynb) as always and Slack me if you have any questions!
 
 ## How many adjuncts...
