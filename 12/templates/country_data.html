@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Country lookup</title>
+
+<body>
+<h1>Country Information</h1>
+
+{% if country %}
+<p> You requested information on {{ country['name'] }}. The capital of {{ country['name'] }} is {{ country['capital'] }}. Its population is {{ country['population'] }}.</p>
+{% endif %}
+
+<p>Enter the name of the country you want to look up below:</p>
+<form action="/countries" method="GET">
+<input type="text" name="lookup_name">
+<input type="submit">
+
+</form>
+</body>
+</html>
