@@ -13,7 +13,7 @@
 
 We're interested in the [REST APIs](https://dev.twitter.com/rest/public). We're not going into exactly what REST means, for now know that it basically means that the API has individual resources that can be accessed by URL and it returns JSON.
 
->> Once upon a time, everyone use XML-RPC (remote prodecure call) -- that's what was used prior to Rest APIs.
+>> Once upon a time, everyone used XML-RPC (remote prodecure call) -- that's what was used prior to Rest APIs.
 
 Most things that you'd want to do on Twitter, you can do through the Twitter API.
 
